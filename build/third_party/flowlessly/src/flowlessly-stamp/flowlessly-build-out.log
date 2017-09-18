@@ -1,0 +1,55 @@
+Scanning dependencies of target gtest
+[  6%] Creating directories for 'gtest'
+[ 12%] Performing download step (git clone) for 'gtest'
+-- gtest download command succeeded.  See also /home/lilelr/firmament/build/third_party/flowlessly/src/flowlessly-build/third_party/gtest/src/gtest-stamp/gtest-download-*.log
+
+[ 18%] No patch step for 'gtest'
+[ 25%] Performing update step for 'gtest'
+Your branch is up-to-date with 'origin/master'.
+[ 31%] Performing configure step for 'gtest'
+-- The C compiler identification is GNU 4.8.4
+-- The CXX compiler identification is GNU 4.8.4
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Found PythonInterp: /usr/bin/python (found version "2.7.6") 
+-- Looking for include file pthread.h
+-- Looking for include file pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lilelr/firmament/build/third_party/flowlessly/src/flowlessly-build/third_party/gtest/src/gtest-build
+[ 37%] Performing build step for 'gtest'
+-- gtest build command succeeded.  See also /home/lilelr/firmament/build/third_party/flowlessly/src/flowlessly-build/third_party/gtest/src/gtest-stamp/gtest-build-*.log
+
+[ 43%] No install step for 'gtest'
+[ 50%] Completed 'gtest'
+[ 50%] Built target gtest
+Scanning dependencies of target graphs
+[ 56%] Building CXX object src/CMakeFiles/graphs.dir/graphs/adjacency_map_graph.cc.o
+[ 62%] Building CXX object src/CMakeFiles/graphs.dir/graphs/graph.cc.o
+[ 68%] Building CXX object src/CMakeFiles/graphs.dir/graphs/graph_generator.cc.o
+[ 68%] Built target graphs
+Scanning dependencies of target solvers
+[ 75%] Building CXX object src/CMakeFiles/solvers.dir/solvers/cycle_cancelling.cc.o
+[ 81%] Building CXX object src/CMakeFiles/solvers.dir/solvers/successive_shortest.cc.o
+[ 81%] Built target solvers
+Scanning dependencies of target misc
+[ 87%] Building CXX object src/CMakeFiles/misc.dir/misc/statistics.cc.o
+[ 93%] Building CXX object src/CMakeFiles/misc.dir/misc/utils.cc.o
+[ 93%] Built target misc
+Scanning dependencies of target flow_scheduler
+[100%] Building CXX object src/CMakeFiles/flow_scheduler.dir/flow_scheduler.cc.o
+Linking CXX executable ../flow_scheduler
+[100%] Built target flow_scheduler

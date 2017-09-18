@@ -1,0 +1,1 @@
+cmd='/bin/chmod;+x;/home/lilelr/firmament/build/third_party/cpplint/src/cpplint/cpplint.py'

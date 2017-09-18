@@ -1,0 +1,5 @@
+Already on 'master'
+/home/lilelr/firmament/build/third_party/flowlessly/src/flowlessly/src/flow_scheduler.cc: In function ‘void RunSolver(flowlessly::Solver*, flowlessly::Graph*, FILE*, FILE*, bool*)’:
+/home/lilelr/firmament/build/third_party/flowlessly/src/flowlessly/src/flow_scheduler.cc:154:14: warning: unused variable ‘stats’ [-Wunused-variable]
+   Statistics stats;
+              ^

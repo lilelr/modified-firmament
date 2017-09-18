@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DBUILD_PIOND=off;-DBUILD_HELLOSERVER=off;-DBUILD_ALLOWNOTHINGSERVICE=off;-DBUILD_COOKIESERVICE=off;-DBUILD_ECHOSERVICE=off;-DBUILD_FILESERVICE=off;-DBUILD_HELLOSERVICE=off;-DBUILD_LOGSERVICE=off;-DBUILD_SHARED_LIBS=off;-GUnix Makefiles;/home/lilelr/firmament/build/third_party/pion/src/pion'

@@ -1,0 +1,20 @@
+--2017-09-18 09:14:10--  http://burtleburtle.net/bob/c/SpookyV2.cpp
+Connecting to 127.0.0.1:1080... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 8529 (8.3K) [text/plain]
+Saving to: ‘spooky-hash/SpookyV2.cpp’
+
+     0K ........                                              100%  104M=0s
+
+2017-09-18 09:14:12 (104 MB/s) - ‘spooky-hash/SpookyV2.cpp’ saved [8529/8529]
+
+--2017-09-18 09:14:12--  http://burtleburtle.net/bob/c/SpookyV2.h
+Connecting to 127.0.0.1:1080... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 11893 (12K) [text/plain]
+Saving to: ‘spooky-hash/SpookyV2.h’
+
+     0K .......... .                                          100%  145M=0s
+
+2017-09-18 09:14:14 (145 MB/s) - ‘spooky-hash/SpookyV2.h’ saved [11893/11893]
+

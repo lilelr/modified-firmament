@@ -1,0 +1,18 @@
+--2017-09-18 08:57:40--  http://raw.githubusercontent.com/google/styleguide/gh-pages/cpplint/cpplint.py
+Connecting to 127.0.0.1:1080... connected.
+Proxy request sent, awaiting response... 301 Moved Permanently
+Location: https://raw.githubusercontent.com/google/styleguide/gh-pages/cpplint/cpplint.py [following]
+--2017-09-18 08:57:40--  https://raw.githubusercontent.com/google/styleguide/gh-pages/cpplint/cpplint.py
+Connecting to 127.0.0.1:1080... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 236000 (230K) [text/plain]
+Saving to: ‘cpplint/cpplint.py’
+
+     0K .......... .......... .......... .......... .......... 21%  238K 1s
+    50K .......... .......... .......... .......... .......... 43%  495K 0s
+   100K .......... .......... .......... .......... .......... 65% 1.42M 0s
+   150K .......... .......... .......... .......... .......... 86% 1.06M 0s
+   200K .......... .......... ..........                      100%  703K=0.4s
+
+2017-09-18 08:57:41 (530 KB/s) - ‘cpplint/cpplint.py’ saved [236000/236000]
+

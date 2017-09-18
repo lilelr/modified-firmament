@@ -1,0 +1,2 @@
+/home/lilelr/firmament/build/third_party/pion/src/pion-build/CMakeFiles/doc.dir
+/home/lilelr/firmament/build/third_party/pion/src/pion-build/src/CMakeFiles/pion.dir

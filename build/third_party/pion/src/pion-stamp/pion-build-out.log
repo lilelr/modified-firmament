@@ -1,0 +1,21 @@
+Scanning dependencies of target pion
+[  5%] Building CXX object src/CMakeFiles/pion.dir/admin_rights.cpp.o
+[ 11%] Building CXX object src/CMakeFiles/pion.dir/algorithm.cpp.o
+[ 16%] Building CXX object src/CMakeFiles/pion.dir/http_auth.cpp.o
+[ 22%] Building CXX object src/CMakeFiles/pion.dir/http_basic_auth.cpp.o
+[ 27%] Building CXX object src/CMakeFiles/pion.dir/http_cookie_auth.cpp.o
+[ 33%] Building CXX object src/CMakeFiles/pion.dir/http_message.cpp.o
+[ 38%] Building CXX object src/CMakeFiles/pion.dir/http_parser.cpp.o
+[ 44%] Building CXX object src/CMakeFiles/pion.dir/http_plugin_server.cpp.o
+[ 50%] Building CXX object src/CMakeFiles/pion.dir/http_reader.cpp.o
+[ 55%] Building CXX object src/CMakeFiles/pion.dir/http_server.cpp.o
+[ 61%] Building CXX object src/CMakeFiles/pion.dir/http_types.cpp.o
+[ 66%] Building CXX object src/CMakeFiles/pion.dir/http_writer.cpp.o
+[ 72%] Building CXX object src/CMakeFiles/pion.dir/logger.cpp.o
+[ 77%] Building CXX object src/CMakeFiles/pion.dir/plugin.cpp.o
+[ 83%] Building CXX object src/CMakeFiles/pion.dir/process.cpp.o
+[ 88%] Building CXX object src/CMakeFiles/pion.dir/scheduler.cpp.o
+[ 94%] Building CXX object src/CMakeFiles/pion.dir/tcp_server.cpp.o
+[100%] Building CXX object src/CMakeFiles/pion.dir/tcp_timer.cpp.o
+Linking CXX static library ../Bin/libpion.a
+[100%] Built target pion

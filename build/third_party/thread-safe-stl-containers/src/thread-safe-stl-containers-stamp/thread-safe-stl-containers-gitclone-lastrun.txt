@@ -1,0 +1,3 @@
+repository='https://github.com/ms705/thread-safe-stl-containers.git'
+module=''
+tag=''

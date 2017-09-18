@@ -1,0 +1,4 @@
+/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3-build/CMakeFiles/libprotobuf.dir
+/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3-build/CMakeFiles/libprotobuf-lite.dir
+/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3-build/CMakeFiles/libprotoc.dir
+/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3-build/CMakeFiles/protoc.dir

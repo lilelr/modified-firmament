@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-H/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3/cmake;-B/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3-build;-Dprotobuf_BUILD_TESTS=off;-DCMAKE_CXX_FLAGS="-fPIC"'

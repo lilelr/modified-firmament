@@ -1,0 +1,1 @@
+/usr/bin/c++   "-fPIC"    CMakeFiles/protoc.dir/home/lilelr/firmament/build/third_party/protobuf3/src/protobuf3/src/google/protobuf/compiler/main.cc.o  -o protoc -rdynamic libprotobuf.a libprotoc.a libprotobuf.a -lpthread -lz 

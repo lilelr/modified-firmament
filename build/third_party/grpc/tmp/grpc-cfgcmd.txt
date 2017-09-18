@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-C/home/lilelr/firmament/build/third_party/grpc/tmp/grpc-cache.cmake;-GUnix Makefiles;/home/lilelr/firmament/build/third_party/grpc/src/grpc'
